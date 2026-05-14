@@ -23,4 +23,6 @@ Install the library:
 pip install openpyxl
 ```
 Run the project:
-- python main.py
+```bash
+python main.py
+```
